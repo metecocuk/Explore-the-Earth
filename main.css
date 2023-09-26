@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.Earth{
+    margin: 0%;
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-image: url(asssets/EARTH.jpg);
+    color: antiquewhite;
+}
+
+.text{
+    font-size: 125px;
+    margin-left: 17%;
+}
+
+.nav-divi{
+    margin-left: 25%;
+    display: flex;
+}
+
